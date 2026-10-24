@@ -4,7 +4,7 @@ IELTS learning and practice materials for C1-level English students to fulfill t
 ### resource
   <img width="606" heightit="838" alt="image" src="https://github.com/user-attachments/assets/366b6da0-85f9-4609-a9c7-7542674f1fb4" />
 
-### Squence
+### Sequence
 
 It's always on one day, and the sequence is Listening, Reading, and Writing.
 
@@ -35,7 +35,7 @@ When you are provided with headphones
   - check the volume level
   - ask them to change it if it's not working
   - you have 10 minutes to find the volume key and change it to your comfort level.
-> **Exeption** if all of a sudden, the audio is noisy the have to **Stop** the audio and play it again.
+> ** Exception ** if all of a sudden, the audio is noisy the have to **Stop** the audio and play it again.
 
 ### Breaks
 There are 4 sections and a break between sections.
@@ -61,6 +61,47 @@ Difficulty level increases in each section, and this is the criterion by which i
   - No breaks within sections (at section 4, there is no break from 31 to 40)
 > **Why sections?** 4 sections = 4 context
 
-### section 1
-A conversation between two people
+### Section 1
+A conversation between two people 
+  - difficulty level is easy
+  - everyday social context
+  - because it's on the phone, the voice may be clear, so put the volume a little bit higher than usual.
 
+### Section 2
+  - monolog
+  - everyday social context
+  - Types of questions are MCQs, short Q and A, Sentence completion, Diagram labeling, etc.
+
+### Section 3
+ - Most difficult one -> Mainly MCQs
+ - A conversation between 2 to 4 people
+ - An academic conversation
+
+### Section 4
+  - No break, 31 to 40 (7 to 8 min audio)
+  - Monolog (research) academic context
+  - Mainly summary completion MCQs
+
+## Introduction to accents
+### Various accents
+  - British (80-90%)
+  - American
+  - austrialn
+  - canadian
+  - indian
+  - russian
+### Alphabet
+Watch out for A and I.
+### Number
+**0** is **HERO**
+0 -> Not, naught, nought
+0 -> Null
+0 -> Zero
+0 -> Oh
+> Note down the numbers in a mini pause
+635.692.137
+- **double** two
+### Pronunciation
+```dictionary.cambridge.org```
+
+## Listening Module - Form Completion
